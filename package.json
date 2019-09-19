@@ -1,0 +1,18 @@
+{
+  "name": "ibm_app",
+  "version": "1.0.0",
+  "description": "Simple web_app for IBM internship",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Zygimantas Baltutis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
