@@ -3,6 +3,5 @@ Simple static web application for IBM internship.
 ---
 ## Installation
 Download the app solution to local drive.
-Locate it command line, and run 
-`javscript
+Locate it command line, and run. 
   npm app
