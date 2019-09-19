@@ -1,5 +1,4 @@
 # ibm_meme_app.
----
 
 ## Description
 Simple, small web app, for IBM internship.
