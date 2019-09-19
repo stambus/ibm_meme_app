@@ -31,13 +31,13 @@ Check if server is runnning on cmd line and if it does access local host with po
 
 First You will need to upload the img using upload button:
 
-	![alt text](test1.png)
+	![test1](/test1.png)
   
 After You selected file from your local drive, generate it: 
 
-	![alt text](test2.png)
+	![test2](/test2.png)
   
 Then adjust text size with sliders and hit generate again: 
 
-	![alt text](test3.png)
+	![test3](/test3.png)
 
