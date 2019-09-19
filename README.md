@@ -1,10 +1,19 @@
 # ibm_meme_app.
 ---
-Simple web application for IBM internship.
+
+## Description
+Simple, small web app, for IBM internship.
+
+### Technologies 
+
+- Node.js (Creating backend server and express app)
+- Javascript (For simple solution frontend)
+
 ---
-## Installation
+## How to use
+
+### Installation
 Download the app solution to local drive.
 Locate it command line, and run. 
-`code`
-npm start app
-`code`
+
+`npm start app`
