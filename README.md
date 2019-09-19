@@ -23,10 +23,9 @@ Locate it in command line, and run following code line
 
 `npm start app`
 
-### Running
 Check if server is runnning on cmd line and if it does access local host with port 5000.
 
 `http://127.0.0.1:5000/`
 
-### Using 
+### Using the app
 
