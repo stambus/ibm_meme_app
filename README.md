@@ -15,7 +15,8 @@ Simple, small web app, for IBM internship.
 
 ### Installation
 First You have to install prerequisites like node.js enviroment, it can be done via link :
-[title](https://nodejs.org/en/)
+
+[https://nodejs.org/en/](https://nodejs.org/en/)
 
 Then download the app solution to local drive.
 Locate it in command line, and run following code line 
