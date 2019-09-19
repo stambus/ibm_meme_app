@@ -13,7 +13,7 @@ Simple, small web app, for IBM internship.
 
 ### Installation
 Download the app solution to local drive.
-Locate it command line, and run. 
+Locate it in command line, and run following code line 
 
 `npm start app`
 
