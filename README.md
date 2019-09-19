@@ -1,7 +1,8 @@
-# ibm_meme_app
-Simple static web application for IBM internship.
+# ibm_meme_app.
 ---
 ## Installation
 Download the app solution to local drive.
 Locate it command line, and run. 
-  npm app
+`code`
+npm start app
+`code`
